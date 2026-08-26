@@ -14,9 +14,9 @@ I'm a Computer Technology student passionate about Data Science, Machine Learnin
 
 ## Languages
 
-Python
-Java
-SQL
+Python|
+Java|
+SQL|
 JavaScript
 
 ## Data Science & Analytics
